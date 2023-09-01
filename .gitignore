@@ -1,3 +1,7 @@
+# User-Defined
+*.deb
+Miniconda3*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
